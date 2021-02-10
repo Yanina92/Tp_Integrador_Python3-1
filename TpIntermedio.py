@@ -1,4 +1,4 @@
-from tkinter import *
+
 
 def iniciar_sesion():
     ventana2 = Tk()
